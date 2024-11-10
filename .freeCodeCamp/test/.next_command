@@ -249,3 +249,10 @@ __vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
 trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git add .
+git commit
+git push origin main
+git push origin main
+git remote set-url origin https://github.com/CD1974/learn-relational-databases-by-building-a-mario-database.git
+git push origin main
+git pull origin main --rebase
+git add .
