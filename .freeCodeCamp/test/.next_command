@@ -541,3 +541,13 @@ psql --username=freecodecamp --dbname=mario_database
 git status
 git add modified: .freeCodeCamp/test/.next_command
 git add .freeCodeCamp/test/.next_command
+git commit
+git status
+psql --username=freecodecamp --dbname=mario_databas
+sudo service postgresql start
+sudo service postgresql status
+psql --username=freecodecamp --dbname=mario_database
+sudo -u postgres psql
+psql --username=freecodecamp --dbname=mario_database
+git status
+git add .
