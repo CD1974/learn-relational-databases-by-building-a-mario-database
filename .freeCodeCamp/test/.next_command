@@ -551,3 +551,4 @@ sudo -u postgres psql
 psql --username=freecodecamp --dbname=mario_database
 git status
 git add .
+git commit
