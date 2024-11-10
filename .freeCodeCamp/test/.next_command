@@ -262,3 +262,6 @@ git status
 add .freeCodeCamp/test/.cwd
 git add .freeCodeCamp/test/.cwd
 git add .freeCodeCamp/test/.next_command
+git pull origin main --rebase
+git status
+git add .
